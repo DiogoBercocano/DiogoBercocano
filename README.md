@@ -1,14 +1,14 @@
 
-# Olá, eu sou Diogo Berçocano Moreira 👋
+# Greetings, I’m Diogo Berçocano Moreira 👋
 
-🎓 Estudante de Sistemas de Informação | 4º termo  
-💻 Apaixonado por tecnologia, desenvolvimento e resolução de problemas  
-🌱 Explorando front-end, back-end e banco de dados  
-🚀 Sempre buscando aprendizado contínuo e crescimento profissional  
+🎓 Fourth-semester Information Systems undergraduate  
+💻 Enthusiast in technology, software development, and complex problem-solving  
+🌱 Actively exploring front-end, back-end, and database management  
+🚀 Committed to continuous learning and professional growth within the IT domain  
 
 ---
 
-## Tecnologias e Linguagens
+## Technologies and Programming Languages
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/>
@@ -23,29 +23,30 @@
 
 ---
 
-## IDEs que já usei
+## Integrated Development Environment (IDEs) Utilized
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
 width="40" height="40"/>
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="40" height="40"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg"
+width="40" height="40"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" 
+width="40" height="40"/>
+          
 </p>
 
 ---
 
-## Contato
+## Contact Information
 
-📫 Estou aberto a conexões, colaborações e novas oportunidades!  
+📫 I welcome professional connections, collaborative opportunities, and new challenges.  
 - LinkedIn: [Diogo Berçocano Moreira](https://www.linkedin.com/in/diogo-berçocano-moreira-54683a338)  
 - Email: dg.bercocano06@gmail.com  
 
 ---
 
-## 📈 Estatísticas GitHub
-
-![Diogo Berçocano Moreira GitHub stats](https://github-readme-stats.vercel.app/api?username=dgbercocano06&show_icons=true&theme=radical)
-
----
-
-Obrigado pela visita! 🚀
+Thank you for visiting my profile! 🚀
