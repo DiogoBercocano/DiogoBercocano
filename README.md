@@ -25,7 +25,8 @@
 ## IDEs que já usei
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-plain.png" alt="VS Code" width="40" height="40"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devcpp/devcpp-plain.png" alt="DevC++" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.png" alt="Visual Studio Community 2022" width="40" height="40"/>
 </p>
