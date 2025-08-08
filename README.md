@@ -33,14 +33,6 @@
 
 ---
 
-## Projetos em Destaque
-
-- [Projeto 1](#) – breve descrição do que foi feito  
-- [Projeto 2](#) – breve descrição do que foi feito  
-- [Projeto 3](#) – breve descrição do que foi feito  
-
----
-
 ## Contato
 
 📫 Estou aberto a conexões, colaborações e novas oportunidades!  
