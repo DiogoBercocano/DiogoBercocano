@@ -45,7 +45,7 @@
 
 <p>
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=default" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoBercocano&layout=compact&theme=default" 
     height="180"
   />
 </p>
